@@ -14,7 +14,7 @@
 <br>
 - 🤓 Probably the coolest nerd you will ever meet
 - 🤯 Got a problem? Let's solve it together? 
-- 📫 How to reach me find me on [linkedin](https://www.linkedin.com/in/ryanlisse/) || email: [ryan@ryanlisse.com](mailto:ryan@ryanlisse.com)
+- 📫 How to reach me find me on https://www.linkedin.com/in/ryanlisse || email: ryan@ryanlisse.com
 
 
 
