@@ -10,11 +10,10 @@
 - &#8383; Passionate about the web3 space, I believe web3 can create a future where creators have all the tools to create their art and build, grow and monetize their communities
 - 🌱 I’m currently learning : Lens protocol and GraphQL
 - 💞️ I’m looking to collaborate on building Dapps and mobile apps
-
-<br>
+<br><br>
 - 🤓 Probably the coolest nerd you will ever meet
 - 🤯 Got a problem? Let's solve it together? 
-- 📫 How to reach me find me on https://www.linkedin.com/in/ryanlisse || email: ryan@ryanlisse.com
+- 📫 Want to reach out? find me on https://www.linkedin.com/in/ryanlisse || email: ryan@ryanlisse.com
 
 
 
