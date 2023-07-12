@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RyanLisse 
-- 🏆 I’m a creative, marketer and a full-stack web developer
+- 🏆 I’m a creative, marketer and a full-stack developer
+- Currently working as Software Consultant @ "</ Salt>"
 - 👨🏾‍🦱👩🏾🐶 Proud father of two kids and a dog
 - 🇳🇱 Born in Amsterdam roots from Suriname 🇸🇷
 - 👩🏾‍🦱 My Mom Was teaching Computer Basics BEFORE the Internet Was A Thing....
