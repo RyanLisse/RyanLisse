@@ -9,7 +9,7 @@
 - 🖥 I have a passion for learning new technologies and I consider myself a self-solver/professional googler
 - 👀 I’m interested in all things blockchain/web3 and AI
 - &#8383; Passionate about the web3 space, I believe web3 can create a future where creators have all the tools to create their art and build, grow and monetize their communities
-- 🌱 I’m currently learning : JAVA and Python
+- 🌱 I’m currently learning : Angular and Python
 - 💞️ I’m looking to collaborate on building Dapps and mobile apps
 <br><br>
 - 🤓 Probably the coolest nerd you will ever meet
